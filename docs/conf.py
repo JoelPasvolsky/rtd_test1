@@ -13,14 +13,14 @@ extensions = [
     'sphinx.ext.githubpages',
     'sphinx.ext.ifconfig',
     'sphinx_copybutton',
-    'hoverxref.extension',
+#    'hoverxref.extension',
 ]
 
 autosummary_generate = True
 
-hoverxref_roles = ['term']
-hoverxref_role_types = {'term': 'tooltip'}
-hoverxref_mathjax = True
+#hoverxref_roles = ['term']
+#hoverxref_role_types = {'term': 'tooltip'}
+#hoverxref_mathjax = True
 
 source_suffix = ['.rst', '.md']
 
