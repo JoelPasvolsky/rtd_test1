@@ -76,11 +76,11 @@ html_theme_options = {
         "page-toc",
         "page-source",
     ],
-    "navbar_center": ["version-switcher"],
+#    "navbar_center": ["version-switcher"],
     "navbar_end": ["navbar-icon-links"],
-    "switcher": {
-        "version_match": "latest", # Or your default version, e.g., "stable"
-        "json_url": "https://rtd-test1-jp.readthedocs.io/en/latest/_static/switcher.json",
+#    "switcher": {
+#        "version_match": "latest", # Or your default version, e.g., "stable"
+#        "json_url": "https://rtd-test1-jp.readthedocs.io/en/latest/_static/switcher.json",
     },
 }
 html_sidebars = {
